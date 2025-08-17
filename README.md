@@ -17,3 +17,7 @@ Passionate about **UI/UX, minimal design, and unique digital interactions**.
 ## 📫 Connect  
 - GitHub: [@thisizasif](https://github.com/thisizasif)  
 - Developer Handle: **thisizasif**  
+
+---
+## 📫 Recent Project Blanko 
+- GitHub: [@thisizasif](https://thisizasif.github.io/Blanko)
