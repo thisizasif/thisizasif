@@ -1,67 +1,106 @@
-[![Thisizasif GitHub Banner](https://raw.githubusercontent.com/yourusername/support-banner/main/banner.svg)](https://yourwebsite.com)
+# Hi there, I'm Asif! 👋
+
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=thisizasif%20&fontSize=50&fontAlignY=35&animation=fadeIn)
+
+</div>
 
 ---
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/thisizasif?style=social&label=Follow)](https://github.com/thisizasif)
+[![Visitors](https://komarev.com/ghpvc/?username=thisizasif&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/thisizasif)
+![GitHub User's stars](https://img.shields.io/github/stars/thisizasif?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
-I'm `Asif Nazir` (thisizasif)  
-💻 Web Developer | Open Source Enthusiast | Problem Solver  
-
-I build **web tools, utilities, and innovative projects**. My focus is creating **clean, efficient, user-friendly solutions** that make an impact.  
-When not coding, I explore new tech, contribute to open source, or share knowledge with the community.
-
-<img align="right" alt="Programming GIF" src="https://github.com/thisizasif/thisizasif/blob/main/programming.gif?raw=true" width="450" />
-
-- 💬 Ask me about **web development, programming, or GitHub tips**  
-- 📫 Reach me: 
-<a href="https://twitter.com/thisizasif"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/thisizasif"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://github.com/thisizasif"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+</div>
 
 ---
 
-### 🚀 Projects
+## 🌄 About Me  
+
+Hi! I'm **Asif Nazir** (**thisizasif**) from the **Kashmir Valley** 🏔️.  
+I'm a **programmer, builder, and cyber enthusiast** who loves creating open-source tools, experimenting with code in Termux/Linux, and designing clean digital experiences.  
+
+> *"Where the mountains embrace the sky, my code finds its wings."*  
+
+---
+
+
+<div align="center">
+
+<!-- Typing header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF7139&center=true&vCenter=true&width=600&lines=✨+Check+Out+My+Top+Projects;🚀+Built+With+Passion+and+Code;🌟+Always+Learning+Always+Building)](https://git.io/typing-svg)
+
+<!-- Gradient banner -->
+![Repos](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=%20My%20Top%20Repositories%20&fontSize=30&animation=fadeIn)
+
+</div>
+
+<!-- Repo Cards -->
 <p align="center">
-<a href="https://github.com/thisizasif/Codiva"><img title="Codiva" src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Codiva&theme=radical"></a>
-<a href="https://github.com/thisizasif/Blanko"><img title="Blanko" src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Blanko&theme=vision-friendly-dark"></a>
-<a href="https://github.com/thisizasif/PatternDemo"><img title="PatternDemo" src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=PatternDemo&theme=radical"></a>
-<a href="https://github.com/thisizasif/trueReduce"><img title="trueReduce" src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=trueReduce&theme=vision-friendly-dark"></a>
+  <a href="https://github.com/thisizasif/Text2ASCII">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Text2ASCII&theme=vision-friendly-dark&show_owner=true" />
+  </a>
+  <a href="https://github.com/thisizasif/instaGrabber">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=instaGrabber&theme=synthwave&show_owner=true" />
+  </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" />
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" />
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" />
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" />
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" />
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" />
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/docker.svg" />
+  <a href="https://github.com/thisizasif/Codiva">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Codiva&theme=highcontrast&show_owner=true" />
+  </a>
+  <a href="https://github.com/thisizasif/Blanko">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Blanko&theme=prussian-blue&show_owner=true" />
+  </a>
 </p>
 
----
-
-### 📈 GitHub Stats
 <p align="center">
-<a href="https://github.com/thisizasif"><img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thisizasif&show_icons=true&theme=radical"></a>
-<a href="https://github.com/thisizasif"><img title="Trophies" src="https://github-profile-trophy.vercel.app/?username=thisizasif&theme=monokai"></a>
+  <a href="https://github.com/thisizasif/UnifiedTools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=UnifiedTools&theme=chartreuse-dark&show_owner=true" />
+  </a>
 </p>
 
----
 
-### 📊 Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisizasif&theme=nord&color=41b883&line=959598&point=41b883&hide_border=true&bg_color=9ca3af00" />
+Check them out here 👉 [GitHub Projects](https://github.com/thisizasif?tab=repositories)  
 
 ---
 
-### 💖 Supporters
-[![Stargazers](https://reporoster.com/stars/thisizasif/thisizasif)](https://github.com/thisizasif/thisizasif/stargazers)
-[![Forkers](https://reporoster.com/forks/thisizasif/thisizasif)](https://github.com/thisizasif/thisizasif/network/members)
+## 🛠️ Skills & Tools  
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
 
 ---
 
-### ⚡ Fun Fact
-> I believe that **a well-designed interface can make a huge difference** in user experience.  
-> Always learning, always coding, always creating.
+## 📫 Connect With Me  
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisizasif)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thisizasif)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thisizasif)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thisixasif)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thisizasif)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/EmaAshu)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=65&animation=fadeIn)
+
+</div>
