@@ -48,7 +48,7 @@ I'm a **programmer, builder, and cyber enthusiast** who loves creating open-sour
 <!-- Repo Cards -->
 <p align="center">
   <a href="https://github.com/thisizasif/BlueBadge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Text2ASCII&theme=vision-friendly-dark&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=BlueBadge&theme=vision-friendly-dark&show_owner=true" />
   </a>
   <a href="https://github.com/thisizasif/Codiva">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=instaGrabber&theme=synthwave&show_owner=true" />
