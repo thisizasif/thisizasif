@@ -46,27 +46,21 @@ I'm a **programmer, builder, and cyber enthusiast** who loves creating open-sour
 </div>
 
 <!-- Repo Cards -->
+
+
+
+
+
+
 <p align="center">
+  <a href="https://github.com/thisizasif/Codiva">
+    <img src="https://img.shields.io/badge/Codiva-Repository-orange?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/thisizasif/TrulyChat">
+    <img src="https://img.shields.io/badge/TrulyChat-Repository-blue?style=for-the-badge&logo=github" />
+  </a>
   <a href="https://github.com/thisizasif/BlueBadge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=BlueBadge&theme=vision-friendly-dark&show_owner=true" />
-  </a>
-  <a href="https://github.com/thisizasif/Codiva">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=instaGrabber&theme=synthwave&show_owner=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/thisizasif/Codiva">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Codiva&theme=highcontrast&show_owner=true" />
-  </a>
-  <a href="https://github.com/thisizasif/Blanko">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=Blanko&theme=prussian-blue&show_owner=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/thisizasif/PattrenDemo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thisizasif&repo=UnifiedTools&theme=chartreuse-dark&show_owner=true" />
+    <img src="https://img.shields.io/badge/BlueBadge-Repository-aqua?style=for-the-badge&logo=github" />
   </a>
 </p>
 
